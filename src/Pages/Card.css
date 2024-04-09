@@ -1,0 +1,10 @@
+.btnn{
+    border: 1px solid #000;
+    color: #000;
+    border-radius: 5px;
+    font-weight: 500;
+    height: 40px;
+    width: 155px;
+    text-align: center;
+    background-color: #fff;
+}
